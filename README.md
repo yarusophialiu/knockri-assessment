@@ -4,9 +4,11 @@
 
 -npm install
 
--run $ json-server -p 4000 db.json to start json server
+-run "$ json-server -p 4000 db.json" to start json server
 
--run $ npm start to start frontend
+-run "$ npm start" to start frontend
+
+-run "$ npm test" to test whether App crashes
 <br/>
 <br/>
 Technology Stack
