@@ -1,0 +1,81 @@
+.videoSection {
+  text-align: left;
+  padding: 30px 400px;
+  margin: 30px 10px;
+}
+
+.commentInput {
+  height: 60px;
+}
+
+.medium-padding {
+  padding: 70px 0px;
+}
+
+.question {
+  padding: 20px 0;
+  text-align: left;
+}
+
+.dashboard {
+  float: right;
+  margin-right: 60px;
+}
+
+.heading {
+    color: #555555;
+    width: 100%;
+    border: 0;
+    padding: 10px 0;
+    transition: all 150ms ease 0s;
+    padding-top: 10px;
+    border-bottom: 0;
+    border-radius: 3px;
+    margin-bottom: 0;
+}
+
+.display-col {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+
+.navbar {
+  font-size: 30px;
+  font-weight: 500;
+  background-color: #9933cc;
+  color: #ffffff;
+}
+
+.aside {
+  background-color: #33b5e5;
+  padding: 15px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 16px;
+  margin: 33px;
+  font-weight: 500;
+  height: 66px;
+}
+
+.side-col {
+  font-weight: 300;
+}
+
+.candidate-tag {
+  margin: 45px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 400;
+  height: 45px;
+}
+
+.float-right {
+  float: right;
+  margin-top: 30px;
+}
+
+.video-row {
+  height: 80px;
+  /* margin: 30px; */
+}
